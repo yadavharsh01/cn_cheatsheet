@@ -4,23 +4,16 @@
 ### **What is network and network topology?**
 What is Network?
 A network is a collection of two or more devices connected by communication links so that they can communicate with each other and share resources and information. 
-
 Some examples of networks are email, instant messaging, banking, etc. 
-
 Components of a Network 
-
 • Device: Device means any entity connected to a network and capable of sharing and/or receiving data. It includes devices such as PC, printers, mobile phones, etc. 
-
 • Communication link: A communication channel that connects two devices in a network. The connection can be physical through cables like copper wire, optical fiber or can be wireless like the use of radio waves.    
-
 Reasons for establishing a network: 
-
 Enables easy sharing of resources between network users and processors. 
 Provides network users with maximum performance at minimum cost. 
 Software and hardware compatibility. 
 Centralized management and allocation of network resources. 
 Types of Networks 
-
 A computer network can transmit data by two methods- 
 1) Point-to-Point: A dedicated communication channel or link connects 2 devices. The two connected devices use the full capacity of the channel as no other devices are connected. 
 
